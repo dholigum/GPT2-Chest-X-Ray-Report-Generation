@@ -13,7 +13,7 @@ efficientnet==1.0.0
 gast==0.2.2
 gensim==3.8.3
 google-pasta==0.1.7
-grpcio==1.23.0
+grpcio==1.24.3
 h5py==2.9.0
 idna==2.8
 imageio==2.5.0
